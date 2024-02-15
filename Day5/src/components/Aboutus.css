@@ -1,0 +1,32 @@
+/* Aboutus.css */
+
+.aboutus-header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+}
+
+.aboutus-h1, .aboutus-h2 {
+  color: #007bff;
+}
+
+.aboutus-ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.aboutus-li {
+  margin-bottom: 20px;
+}
+
+.aboutus-strong {
+  font-weight: bold;
+}
+
+.aboutus-address {
+  margin-top: 20px;
+}
+
+.aboutus-a {
+  color: #007bff;
+}

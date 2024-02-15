@@ -1,0 +1,21 @@
+.animatedpanel{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.anipan{
+     /* width: 410px;  */
+    background: linear-gradient(to left, #f3f2f2, #ffffff); /* Replace with your desired color gradient */
+    border-radius: 7.5px;
+    transition: transform 0.5s ease, background 0.5s ease; /* Added background transition */
+    /* width: 200px; */
+    
+}
+.anipan:hover{
+    transform: scale(1.1);
+}
+.anipan-but{
+    /* margin-left: 35%;
+    margin-bottom: 10%;
+    margin-top: 6%; */
+}

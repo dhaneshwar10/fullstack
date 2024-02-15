@@ -1,0 +1,43 @@
+/* profile.css */
+
+.app_profile {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .user-card_profile {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .user-image_profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .user-details_profile {
+    flex: 1;
+  }
+  
+  .user-name_profile {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .user-email_profile,
+  .user-age_profile,
+  .user-dob_profile,
+  .user-country_profile,
+  .user-address_profile {
+    margin-bottom: 5px;
+  }
+  
+  /* Add more styles as needed */
+  
